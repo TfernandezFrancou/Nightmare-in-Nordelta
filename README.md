@@ -7,6 +7,9 @@
 - Espósito, Lucas
 - Hernández Abbaticchio, Thiago Daniel
 - Cicerchia, Francisco
+
+### Gráficas
+- Fernández Francou, Tomás
 ## Trailer
 [![epicVersus](screenshots/versus.png)](https://youtu.be/ImAGnHTGqnY)
 ## Capturas
